@@ -342,9 +342,7 @@ int x=0,page=0,y=0,q,i,Speedo=20,w,e=0,r=0,t=0,u=0,s,speed1,speed,speed2,track,p
             closegraph();
              return 0;
             }
-   /*outtextxy(480,528,".");
-    outtextxy(515,528,".");
-    outtextxy(555,528,".");*/
+   
 
 
    page=1-page;
